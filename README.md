@@ -7,8 +7,8 @@ III. rARPACK <br/>
 The code was tested on Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-48-generic x86_64) having gcc version 11.2.0 and R version 4.2.1 installed on it. <br/>
 You just need to execute the shell script (command.sh) <br/>
 Before executing the script, kindly make all necessary changes in the file itself. <br/>
-If you face any difficulties to run this code or want to apply the entire workflow as used in [] for analysing your OTU/ ASV co-abundance networks, please feel free to write an email to anirban.bhar@uni-greifswald.de and we would be happy to share the rest of the code. <br/>
-If you find MCCD-WN or the entire workflow useful for your project, please cite the following publication:
+If you face any difficulties to run this code or want to apply the entire workflow as used in [1] for analysing your OTU/ ASV co-abundance networks, please feel free to write an email to anirban.bhar@uni-greifswald.de and we would be happy to share the rest of the code. <br/>
+If you find MCCD-WN or the entire workflow useful for your project, please cite the following publication: <br/>
 [1]
 
 
